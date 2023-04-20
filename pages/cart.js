@@ -3,6 +3,7 @@ import Mobile from "../public/Images/mobile.jpg";
 import Image from "next/image";
 import styles from "../styles/Cart.module.css";
 
+//add into cart features is working now 
 const Cart = () => {
   const dummyData = {
     name: "iPhone 13 pro Max Ultra Samsung 256GB",
